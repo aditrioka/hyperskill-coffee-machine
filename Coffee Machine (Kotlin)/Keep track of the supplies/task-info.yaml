@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/machine/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/CoffeeMachineTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5663#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 16 Jan 2025 13:58:30 UTC"
+record: 5
